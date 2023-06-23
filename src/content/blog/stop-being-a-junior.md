@@ -1,6 +1,6 @@
 ---
 title: Stop Being a Junior
-pubDatetime: 2023-05-30
+pubDatetime: 2023-06-23
 tags:
   - carrer
 description: Some advise for people who still consider themselves junior developers
