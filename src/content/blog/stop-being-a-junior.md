@@ -7,6 +7,8 @@ tags:
 description: Some advise for people who still consider themselves junior developers
 postSlug: stop-being-a-junior
 ogImage: ""
+draft: false
+featured: false
 ---
 
 Are you a Junior developer? If you answered yes: How do you know? Is it because
