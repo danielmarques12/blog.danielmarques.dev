@@ -1,9 +1,12 @@
 ---
+author: Daniel Marques
 title: Stop Being a Junior
 pubDatetime: 2023-06-23
 tags:
   - carrer
 description: Some advise for people who still consider themselves junior developers
+postSlug: stop-being-a-junior
+ogImage: ""
 ---
 
 Are you a Junior developer? If you answered yes: How do you know? Is it because
