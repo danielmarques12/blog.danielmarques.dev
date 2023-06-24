@@ -44,53 +44,35 @@ De qualquer forma, o que quero dizer é que por conta do ritmo em que o setor de
 
 > Ficar por dentro de algumas tecnologias escolhidas permite que qualquer pessoa se torne um especialista nelas rapidamente.
 
-And if that person can temper their enthusiasm with a realistic understanding of
-the impact of their lack of experience just a bit, they can make an enormously
-powerful impact to the company (if they're allowed to).
+E se essa pessoa puder moderar seu entusiasmo com uma compreensão realista do impacto de sua falta de experiência, ela poderá causar um impacto extremamente poderoso na empresa (se lhes for permitido).
 
-## My own experience
+## Minha própria experiência
 
-I went to college and had internships while I was in school. This gave me
-awesome exposure to the field before I was officially looking for a full-time
-job. So by the time I graduated, I had already been working as a part-time
-software developer for a year and a half.
+Fui para a faculdade e fiz estágios enquanto estava no ensino médio. Isso me deu uma exposição incrível à area antes de procurar oficialmente um emprego em tempo integral. Assim, quando me formei, eu já estava trabalhando como desenvolvedor de software em meio período por um ano e meio.
 
-When I graduated from BYU and joined as a full-time engineer, **I had trouble
-shaking off the "junior" moniker.** Even though all my experience up to that
-point had been part-time work while I was still in school, I felt like I knew my
-team's area of the codebase as well as anyone else and it didn't feel right to
-me that **I still got the lower priority tasks.**
+Quando me formei na BYU (universidade) e entrei como engenheiro em tempo integral, **tive dificuldade para me livrar do apelido de "júnior"**. Embora toda a minha experiência até aquele momento tivesse sido um trabalho de meio período enquanto eu ainda estava no ensino médio, eu sentia que conhecia a parte da base de código da minha equipe tão bem quanto qualquer outra pessoa e não parecia certo para mim que que **eu ainda ficasse com as tarefas de menor prioridade**.
 
-I saw some really big architectural level tasks going to the more experienced
-engineers and I wanted a piece of that. However, since I converted from student
-to full-time employee and everyone knew me as the student, **I always felt like
-people saw me as "the intern".**
+Vi algumas tarefas de nível arquitetônico realmente grandes sendo executadas por engenheiros mais experientes e eu queria participar disso. No entanto, como passei de estudante a funcionário em tempo integral e todos me conheciam como o estudante, **sempre senti que as pessoas me viam como "o estagiário"**.
 
-Maybe I could have been a little more assertive about my goals and hopes, but I
-just decided that the only way for me to get more responsibilities was to go to
-a new company where people had never seen me as "the intern" and would instead
-see me as a regular co-worker.
+Talvez eu pudesse ter sido um pouco mais assertivo em relação às minhas metas e sonhos, mas decidi que a única maneira de ter mais responsabilidades era ir para uma nova empresa onde as pessoas nunca tivessem me visto como "o estagiário" e em vez disso me vissem como um colega de trabalho comum.
 
-So that's what I did. Just four months after converting to full-time, I was
-recruited away to my next company where I was given a massive pay bump (over 50%
-increase) and 20% of my time was devoted to architecture. It was phenomenal.
-Nobody ever saw me as a junior again. In fact, **I was just a step below
-architect** in a quarter-billion dollar organization **only 4 months** after
-graduating from university.
+Então foi isso que fiz. Apenas quatro meses após a conversão para tempo integral, fui
+recrutado para minha próxima empresa onde recebi um grande aumento de salário (mais de 50% de aumento) e 20% do meu tempo era dedicado à arquitetura. Foi fenomenal. Ninguém nunca mais me viu como um júnior. Na verdade, **eu estava apenas um degrau abaixo de arquiteto** em uma organização de um quarto de bilhão de dólares **apenas 4 meses**
+após me formar na universidade.
+
+E isso funcionou muito bem para eles. Quando entrei na empresa, eles estavam querendo fazer uma grande migração de suas ferramentas de frontend. Eu fui fui fundamental para projetar o caminho da migração e foi um **sucesso esmagador**.
 
 And that played out extremely well for them. When I joined the company, they
 were wanting to do a major migration of their frontend tooling. I was
 instrumental in designing the migration path and it was a **smashing success.**
 
-Read my whole story in [2010s Decade in Review](/blog/2010s-decade-in-review).
+Leia a minha história completa em [2010s Decade in Review](https://kentcdodds.com/blog/2010s-decade-in-review)
 
-## How to stop being a junior
+## Como deixar de ser um júnior
 
-Instead of thinking about how to stop being one thing, think about how to start
-being something else.
+Em vez de pensar em como deixar de ser uma coisa, pense em como começar a ser outra coisa.
 
-> What do senior developers do in your company? Do that instead of the things
-> junior developers do. That's it.
+> O que os desenvolvedores sênior fazem na sua empresa? Faça isso ao invés de fazer as coisas que os desenvolvedores juniores fazem. É isso.
 
 Naturally the company likely trusts the seniors with more than they trust you
 and **you don't want to overstep,** but _volunteer to participate_ in the more
