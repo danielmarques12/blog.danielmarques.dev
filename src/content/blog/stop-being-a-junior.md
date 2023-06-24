@@ -1,62 +1,42 @@
 ---
 author: Daniel Marques
-title: Stop Being a Junior
+title: Deixe de ser um júnior
 pubDatetime: 2023-06-23
 tags:
   - carrer
-description: Some advise for people who still consider themselves junior developers
+description: Alguns conselhos para pessoas que ainda se consideram desenvolvedores juniores
 postSlug: stop-being-a-junior
 ogImage: ""
 draft: false
 featured: false
 ---
 
-Are you a Junior developer? If you answered yes: How do you know? Is it because
-your title is "Junior Developer?" Is it because your co-workers get all the more
-**interesting work** and you're stuck with the more boring repetitive tasks and
-**simple bugs?** Or do you just not feel like you've not "done your time" yet to
-drop the "junior" moniker?
+> Esta é uma tradução da postagem original [Stop being a junior](https://kentcdodds.com/blog/stop-being-a-junior) de [Kent C. Dodds](https://kentcdodds.com).
 
-Whatever the case may be, I want to tell you to stop being a junior. **Stop it
-now.** I've talked to lots of people who start their conversation with me by
-saying "I'm just getting started" or "I'm just a junior" to which I reply
-"that's great! Welcome to the software development world" only to find out
-they've been working as a software developer for over a year and a half already.
-This surprises me. And it happens so much that I decided to write this blog post
-about how to get yourself out of this eternal-junior situation and start making
-major positive movement in your career.
+Você é um desenvolvedor júnior? Se sua resposta for sim, como você sabe? É porque
+seu título é "Desenvolvedor júnior"? É porque seus colegas de trabalho ficam com todo o trabalho **mais interessante** e você fica com as tarefas repetitivas mais chatas e os **bugs simples?** Ou você simplesmente não sente que ainda não "cumpriu seu tempo" para abandonar o apelido de "júnior"?
 
-## Tech is fast
+Seja qual for o caso, quero lhe dizer para parar de ser um júnior. **Pare com isso agora**. Já conversei com muitas pessoas que começam suas conversas comigo dizendo
+dizendo "Estou apenas começando" ou "Sou apenas um júnior", ao que eu respondo
+"Isso é ótimo! Bem-vindo ao mundo do desenvolvimento de software", mas acabo descobrindo que que eles já estão trabalhando como desenvolvedores de software há mais de um ano e meio. Isso me surpreende. E isso acontece tanto que decidi escrever esta postagem no blog sobre como sair dessa situação de eterno júnior e começar a fazer grandes movimentos positivos em sua carreira.
 
-First of all I think it's important to establish this first:
+## A tecnologia avança rapidamente
 
-There's absolutely no time limit on how long you have to be a developer before
-you are no longer a junior.
+Antes de mais nada, acho que é importante estabelecer isso primeiro:
 
-Any number on that you may have heard is wrong.
+> Não há absolutamente nenhum limite em relação à quanto tempo você deve ser um desenvolvedor antes de deixar de ser um júnior.
 
-One of the things I love about this industry is the pace it moves: fast. With
-emerging technologies all the time and improvements to existing technology, it
-really doesn't take much time for a developer staying on top of these
-advancements in their area of interest to reach a level of familiarity that
-rivals those with decades of experience.
+Qualquer número que você tenha ouvido está errado.
 
-I think of it like this. Imagine there's a river with a steady current. Riding
-on a tube down the river is like developing experience in software development.
-Instead of everyone starting at the beginning of the river, they start where
-everyone else is. It doesn't take long once you jump in to keep up with everyone
-else on the river, regardless of how long they've been doing it. Yes, you'll be
-lacking in experience upstream, but that doesn't change the experience you're
-having _now_. It's an imperfect analogy, I know, but I think it's instructive.
+Uma das coisas que adoro neste setor é o ritmo em que ele se move: rápido. Com
+tecnologias emergentes o tempo todo e os aprimoramentos da tecnologia existente,
+não é preciso muito tempo para que um desenvolvedor fique por dentro desses
+avanços em sua área de interesse para atingir um nível de familiaridade
+que rivaliza com aqueles com décadas de experiência.
 
-Now of course, there's a lot to be said for people with decades of experience,
-and while most of it is positive, not all of it is! People with years of
-experience are more likely to be able to **learn new things faster** because
-often new things resemble old things (though not always!! "unlearning" is
-definitely a thing too). Experienced developers are also more likely to be able
-to **identify problems** in code long before they are problems because they've
-seen how things play out in the real world and they understand constraints
-better.
+Eu penso assim. Imagine que há um rio com uma corrente constante. Descer o rio em um tubo é como desenvolver experiência em desenvolvimento de software. Ao invés de todos começarem no início do rio, eles começam onde todo mundo está. Não demora muito para que você consiga acompanhar o ritmo de todos os outros no rio, independentemente de há quanto tempo eles estejam fazendo isso. Sim, você terá pouca experiência rio acima, mas isso não muda a experiência que você está tendo _agora_. É uma analogia imperfeita, eu sei, mas acho que é instrutiva.
+
+Agora, é claro, há muito a ser dito sobre pessoas com décadas de experiência, e embora a maior parte seja positiva, nem tudo é! Pessoas com anos de experiência têm maior probabilidade de **aprender coisas novas mais rapidamente** porque muitas vezes as coisas novas se assemelham a coisas antigas (embora nem sempre!! "desaprender" é definitivamente algo que acontece também). Os desenvolvedores experientes também têm maior probabilidade de serem capazes de de **identificar problemas** no código muito antes de eles se tornarem problemas, porque eles viram como as coisas acontecem no mundo real e entendem melhor as restrições.
 
 That said, experienced engineers are also more likely to be hesitant to try
 newer tools and technologies and instead be **"set in their ways."** This can
