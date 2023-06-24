@@ -5,7 +5,7 @@ pubDatetime: 2023-06-23
 tags:
   - carrer
 description: Alguns conselhos para pessoas que ainda se consideram desenvolvedores juniores
-postSlug: stop-being-a-junior
+postSlug: deixe-de-ser-um-junior
 ogImage: ""
 draft: false
 featured: false
@@ -38,17 +38,11 @@ Eu penso assim. Imagine que há um rio com uma corrente constante. Descer o rio 
 
 Agora, é claro, há muito a ser dito sobre pessoas com décadas de experiência, e embora a maior parte seja positiva, nem tudo é! Pessoas com anos de experiência têm maior probabilidade de **aprender coisas novas mais rapidamente** porque muitas vezes as coisas novas se assemelham a coisas antigas (embora nem sempre!! "desaprender" é definitivamente algo que acontece também). Os desenvolvedores experientes também têm maior probabilidade de serem capazes de de **identificar problemas** no código muito antes de eles se tornarem problemas, porque eles viram como as coisas acontecem no mundo real e entendem melhor as restrições.
 
-That said, experienced engineers are also more likely to be hesitant to try
-newer tools and technologies and instead be **"set in their ways."** This can
-lead to them missing out on really terrific advancements in the ecosystem and
-tools. Experienced developers are also likely to miss important new features in
-languages and tools because they're just used to doing things a certain way.
+Dito isso, é mais provável que os engenheiros experientes também hesitem em experimentar novas ferramentas e tecnologias e, em vez disso serem **"firmes em seus métodos."** Isso pode fazer com que eles percam avanços realmente incríveis no ecossistema e nas ferramentas. Os desenvolvedores experientes também podem deixar passar novas funcionalidades em linguagens e ferramentas porque estão acostumados a fazer as coisas de uma determinada maneira.
 
-Anyway, my point is that because of the pace at which the software developer
-industry moves is so fast:
+De qualquer forma, o que quero dizer é que por conta do ritmo em que o setor de desenvolvimento de software se movimenta ser tão rápido:
 
-Staying on top of a few chosen technologies allows anyone to become an expert
-in them rather quickly.
+> Ficar por dentro de algumas tecnologias escolhidas permite que qualquer pessoa se torne um especialista nelas rapidamente.
 
 And if that person can temper their enthusiasm with a realistic understanding of
 the impact of their lack of experience just a bit, they can make an enormously
@@ -95,8 +89,8 @@ Read my whole story in [2010s Decade in Review](/blog/2010s-decade-in-review).
 Instead of thinking about how to stop being one thing, think about how to start
 being something else.
 
-What do senior developers do in your company? Do that instead of the things
-junior developers do. That's it.
+> What do senior developers do in your company? Do that instead of the things
+> junior developers do. That's it.
 
 Naturally the company likely trusts the seniors with more than they trust you
 and **you don't want to overstep,** but _volunteer to participate_ in the more
