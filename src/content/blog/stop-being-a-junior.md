@@ -74,62 +74,33 @@ Em vez de pensar em como deixar de ser uma coisa, pense em como começar a ser o
 
 > O que os desenvolvedores sênior fazem na sua empresa? Faça isso ao invés de fazer as coisas que os desenvolvedores juniores fazem. É isso.
 
-Naturally the company likely trusts the seniors with more than they trust you
-and **you don't want to overstep,** but _volunteer to participate_ in the more
-complicated tasks. Even if it's just "hey, can I come sit in on that meeting?"
-Take notes for yourself of anything you're unfamiliar with and ask about those
-things later. In future meetings you'll be able to contribute more and more with
-the knowledge you start to accumulate. Study things out a bit after the meeting
-and make suggestions.
+Naturalmente, a empresa provavelmente confia mais nos seniores do que em você e **você não quer passar dos limites,** mas se _ofereça para participar_ das tarefas mais tarefas mais complicadas. Mesmo que seja apenas "ei, posso participar dessa reunião?". Faça anotações para si mesmo sobre qualquer coisa com que você não esteja familiarizado e pergunte sobre essas sobre esses assuntos depois. Em reuniões futuras, você poderá contribuir mais e mais com com o conhecimento que começar a acumular. Estude um pouco as coisas após a reunião e faça sugestões.
 
-Beware of being over-bearing. Even though you can accumulate a lot of modern
-knowledge really fast, you should be sure to acknowledge that your experience
-limits the usefulness of that knowledge. So **be respectful** of your
-co-workers. But find the people who are willing to sit down with you and answer
-your questions to help fill in the gaps in your experience as you rapidly
-accumulate knowledge.
+Cuidado para não ser arrogante demais. Mesmo que você possa acumular muito conhecimento moderno muito rapidamente, você deve reconhecer que sua experiência limita a utilidade desse conhecimento. Portanto, **respeite** seus colegas de trabalho. Mas encontre pessoas que estejam dispostas a se sentar com você e responder suas perguntas para ajudar a preencher as lacunas na sua experiência à medida que você rapidamente acumula conhecimento.
 
-Use that fast-paced technology to your advantage and learn about what's new and
-improved that developers at your company can take advantage of today. Then teach
-those concepts in "brown bag" lunch meetings (meetings where everyone brings a
-lunch and someone presents something often held weekly). If your company doesn't
-have brown bag lunch meetings scheduled, get them scheduled and present at them.
+Use essa tecnologia de ritmo acelerado a seu favor e aprenda sobre o que há de novo e melhorias que os desenvolvedores de sua empresa podem aproveitar hoje. Em seguida, ensine
+esses conceitos em reuniões de almoço do tipo "brown bag" (reuniões em que todos levam
+almoço e alguém apresenta algo, geralmente realizadas semanalmente). Se sua empresa não
+tiver reuniões de almoço do tipo "brown bag", agende-as e apresente-se nelas.
 
-Volunteer to speak at local **meetups.** A meetup talk is responsible for both
-my job change I talked about earlier as well as me getting invited to join
-Egghead.io as an instructor. Propose to speak at **conferences.**
+Ofereça-se para falar em **encontros locais**(meetups). Uma palestra em um encontro local é responsável tanto pela minha mudança de emprego, sobre a qual falei anteriormente, como também por eu ter sido convidado a participar do Egghead.io como instrutor. Proponha-se a falar em **conferências**.
 
-**Talk** about what you've accomplished to demonstrate you really are
-contributing at a level beyond their expectations of a junior. Make them think
-to themselves _"huh, this dev is only a junior and they did that? Maybe they're
-not really a junior after all."_
+**Fale** sobre o que você realizou para demonstrar que realmente está contribuindo em um nível além das expectativas de um júnior. Faça com que eles pensem para si mesmos _"ah, esse desenvolvedor é apenas um júnior e fez isso? Talvez ele talvez não seja realmente um júnior, afinal de contas."_
 
-**Make sure your manager understands** your **goals** and **intentions** as a
-developer. If you're hoping to ask for a promotion in the meeting where your
-manager tells you about whether you get a pay raise, you're asking way too late.
-They should know your goals much earlier than that and you can ask them what
-they expect you to be able to do to get to that level.
+**Certifique-se de que seu gerente entenda** seus **objetivos** e **intenções** como desenvolvedor. desenvolvedor. Se você espera pedir uma promoção na reunião em que o seu
+gerente lhe diz se você recebeu um aumento de salário, você está pedindo tarde demais.Ele deve conhecer suas metas muito antes disso e você pode perguntar o que ele espera que você possa fazer para chegar a esse nível.
 
-## Try it 'til it fits
+## Teste até que se encaixe
 
-I don't like the phrase "fake it 'til you make it," but the sentiment is here as
-well. The idea is you operate on the level of what you want to be as well as you
-possibly can, and **eventually it'll start feeling like you really are at that
-level.**
+Não gosto da frase "finja até conseguir", mas o sentimento também se aplica aqui. também. A ideia é que você opere no nível do que deseja ser da melhor forma possível
+possível, e **eventualmente, começará a sentir que você realmente está nesse nível.**
 
-I felt like I had to leave the company I was with to get up to the level I
-wanted to be. I probably could have managed it with the company I was
-already with if I had been more patient. I probably would have done that had I
-not been actively recruited out. That said, sometimes if you just can't shake
-the "junior" off your title, you may consider looking for another opportunity.
+Senti que tinha de deixar a empresa em que estava para chegar ao nível que queria estar. Provavelmente eu poderia ter conseguido isso com a empresa em que estava, se tivesse sido mais paciente. Provavelmente eu teria feito isso se não tivesse sido ativamente recrutado. Dito isso, às vezes, se você simplesmente não consegue se livrar do título de "júnior", você pode considerar procurar outra oportunidade.
 
-## Conclusion
+## Conclusão
 
-I hope with this article to not diminish the amount of work it takes to gain
-experience and make impact in this industry. It's a lot of work. However, my
-primary goal is to help inspire some folks to set their sights higher. You're
-capable of more than you think. I promise.
+Espero que este artigo não diminua a quantidade de trabalho necessária para ganhar experiência e causar impacto nesse setor. É muito trabalho. No entanto, meu objetivo principal é ajudar a inspirar algumas pessoas a almejarem algo mais alto. Você é mais capaz do que pensa. Eu prometo.
 
-You don't have to be a junior anymore. It's time for an upgrade.
+Você não precisa mais ser um júnior. É hora de uma atualização.
 
-Good luck!
+Boa sorte!
