@@ -62,10 +62,6 @@ após me formar na universidade.
 
 E isso funcionou muito bem para eles. Quando entrei na empresa, eles estavam querendo fazer uma grande migração de suas ferramentas de frontend. Eu fui fui fundamental para projetar o caminho da migração e foi um **sucesso esmagador**.
 
-And that played out extremely well for them. When I joined the company, they
-were wanting to do a major migration of their frontend tooling. I was
-instrumental in designing the migration path and it was a **smashing success.**
-
 Leia a minha história completa em [2010s Decade in Review](https://kentcdodds.com/blog/2010s-decade-in-review)
 
 ## Como deixar de ser um júnior
