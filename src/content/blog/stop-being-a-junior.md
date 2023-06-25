@@ -1,6 +1,6 @@
 ---
 author: Daniel Marques
-title: Deixe de ser um júnior (Stop Being a Junior)
+title: Deixe de Ser um Júnior (Stop Being a Junior)
 pubDatetime: 2023-06-23
 tags:
   - carrer
