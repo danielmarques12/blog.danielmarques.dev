@@ -1,6 +1,6 @@
 ---
 author: Daniel Marques
-title: Deixe de ser um júnior
+title: Deixe de ser um júnior (Stop Being a Junior)
 pubDatetime: 2023-06-23
 tags:
   - carrer
@@ -8,10 +8,10 @@ description: Alguns conselhos para pessoas que ainda se consideram desenvolvedor
 postSlug: deixe-de-ser-um-junior
 ogImage: ""
 draft: false
-featured: false
+featured: true
 ---
 
-> Esta é uma tradução da postagem original [Stop being a junior](https://kentcdodds.com/blog/stop-being-a-junior) de [Kent C. Dodds](https://kentcdodds.com).
+> Esta é uma tradução do post original [Stop being a junior](https://kentcdodds.com/blog/stop-being-a-junior) por [Kent C. Dodds](https://kentcdodds.com).
 
 Você é um desenvolvedor júnior? Se sua resposta for sim, como você sabe? É porque
 seu título é "Desenvolvedor júnior"? É porque seus colegas de trabalho ficam com todo o trabalho **mais interessante** e você fica com as tarefas repetitivas mais chatas e os **bugs simples?** Ou você simplesmente não sente que ainda não "cumpriu seu tempo" para abandonar o apelido de "júnior"?
