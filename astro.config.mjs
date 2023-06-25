@@ -40,6 +40,7 @@ export default defineConfig({
       exclude: ["@resvg/resvg-js"],
     },
   },
+  output: "hybrid",
   adapter: vercel({
     analytics: true,
   }),
