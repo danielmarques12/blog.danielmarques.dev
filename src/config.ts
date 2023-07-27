@@ -26,12 +26,6 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
-    name: "Twitter",
-    href: "https://twitter.com/danielm_dev",
-    linkTitle: `${SITE.title} on Twitter`,
-    active: true,
-  },
-  {
     name: "Mail",
     href: "mailto:me@danielmarques.dev",
     linkTitle: `Send an email to ${SITE.title}`,
